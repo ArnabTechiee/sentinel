@@ -1,0 +1,16 @@
+transaction_id,p_fraud,amount,expected_loss,reasons
+3442600,0.9383,2681.0,4063.96,velocity counter C1; velocity counter C13; velocity counter C11; amount is 19.6x this billing address's 7 days average; amount is 12.9x this billing address's 24 hours average
+3567759,0.7797,2680.0,3375.93,velocity counter C13; velocity counter C1; velocity counter C11; transaction hour (8:00); amount is 20.6x this billing address's 7 days average
+3538503,0.6897,2161.0,2628.28,Vesta risk feature V294; velocity counter C9; M3 = 1; this billing address: 6s since previous transaction; amount is 12.2x this billing address's 24 hours average
+3434782,0.8947,994.0,2365.68,timedelta feature D2; card4 = 0; card6 = 0; amount is 8.2x this billing address's 7 days average; transaction amount Rs 994
+3561179,0.6897,1651.0,2276.55,card4 = 0; P_emaildomain = 3; card6 = 0; this email domain: 14.7 h since previous transaction; amount is 9.1x this billing address's 7 days average
+3552592,0.8605,994.0,2275.07,timedelta feature D2; card4 = 0; velocity counter C13; transaction amount Rs 994; amount is 5.7x this billing address's 7 days average
+3513829,0.9939,600.0,2236.2,velocity counter C14; Vesta risk feature V156; velocity counter C13; amount is 4.6x this email domain's 7 days average; amount is 2.9x this billing address's 7 days average
+3451545,0.8278,994.0,2188.74,card4 = 0; Vesta risk feature V294; card6 = 0; transaction amount Rs 994; amount is 6.7x this billing address's 7 days average
+3451548,0.8278,994.0,2188.74,card4 = 0; Vesta risk feature V294; card6 = 0; transaction amount Rs 994; amount is 6.6x this billing address's 7 days average
+3565978,0.8278,994.0,2188.74,timedelta feature D2; card4 = 0; transaction amount Rs 994; amount is 8.0x this billing address's 7 days average; velocity counter C13
+3556347,0.999,500.0,2147.85,device/identity signal id_04; Vesta risk feature V156; velocity counter C14; amount is 4.3x this email domain's 7 days average; amount is 2.5x this billing address's 24 hours average
+3556335,0.999,500.0,2147.85,device/identity signal id_04; Vesta risk feature V156; velocity counter C14; amount is 4.6x this email domain's 7 days average; transaction amount Rs 500
+3557572,0.999,500.0,2147.85,device/identity signal id_04; velocity counter C14; Vesta risk feature V156; amount is 3.0x this billing address's 7 days average; amount is 3.8x this email domain's 7 days average
+3556337,0.9939,500.0,2136.81,device/identity signal id_04; Vesta risk feature V156; velocity counter C14; amount is 4.4x this email domain's 7 days average; amount is 2.5x this email domain's 24 hours average
+3464150,0.9939,475.0,2111.96,velocity counter C14; velocity counter C1; velocity counter C13; amount is 3.9x this email domain's 7 days average; transaction amount Rs 475
