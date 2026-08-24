@@ -1,0 +1,16 @@
+# Theme is pinned, not left to the client.
+# The console's CSS assumes ink-on-paper; a viewer whose Streamlit defaults to
+# dark mode otherwise gets dark text on a dark background and the metric row
+# disappears entirely. A demo must not depend on the reviewer's OS setting.
+[theme]
+base = "light"
+primaryColor = "#b3261e"
+backgroundColor = "#fbfbf9"
+secondaryBackgroundColor = "#f2f1ed"
+textColor = "#131a24"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false

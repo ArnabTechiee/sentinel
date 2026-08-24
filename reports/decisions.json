@@ -1,0 +1,62 @@
+{
+  "3442600": {
+    "action": "APPROVE",
+    "at": "2026-08-25T02:25:24",
+    "scored_by": "rules (degraded)"
+  },
+  "3567759": {
+    "action": "APPROVE",
+    "at": "2026-08-25T02:34:07",
+    "scored_by": "model"
+  },
+  "3538503": {
+    "action": "ESCALATE",
+    "at": "2026-08-25T02:35:08",
+    "scored_by": "model"
+  },
+  "3434782": {
+    "action": "ESCALATE",
+    "at": "2026-08-25T02:35:08",
+    "scored_by": "model"
+  },
+  "3561179": {
+    "action": "ESCALATE",
+    "at": "2026-08-25T02:35:09",
+    "scored_by": "model"
+  },
+  "3552592": {
+    "action": "APPROVE",
+    "at": "2026-08-25T02:35:10",
+    "scored_by": "model"
+  },
+  "3513829": {
+    "action": "APPROVE",
+    "at": "2026-08-25T02:35:11",
+    "scored_by": "model"
+  },
+  "3451545": {
+    "action": "BLOCK",
+    "at": "2026-08-25T02:35:12",
+    "scored_by": "model"
+  },
+  "3451548": {
+    "action": "BLOCK",
+    "at": "2026-08-25T02:35:14",
+    "scored_by": "model"
+  },
+  "3565978": {
+    "action": "BLOCK",
+    "at": "2026-08-25T02:35:15",
+    "scored_by": "model"
+  },
+  "3556347": {
+    "action": "APPROVE",
+    "at": "2026-08-25T02:36:27",
+    "scored_by": "model"
+  },
+  "3556335": {
+    "action": "ESCALATE",
+    "at": "2026-08-25T02:36:29",
+    "scored_by": "model"
+  }
+}
